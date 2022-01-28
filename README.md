@@ -17,6 +17,8 @@ Rename main.pak to main.pak.bak to make it unreadable to the game
 
 Replace the folders with the new ones included in this mod. 
 
+/AlternateFiles is not needed to make the game work. They just contain AlternateFiles
+
 Optional: If you wish to use Scuffed Ohne instead of the custom artwork you can find these files under /AlternateFiles Bjorn.jp2 and Bjorn_.gif 
 These 2 files should be dragged into /images/mainmenu to replace the custom artwork. 
 
