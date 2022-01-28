@@ -1,9 +1,9 @@
 # PeggleModPSP
-Mod for PSP1G for Peggle Deluxe
+
 
 Requirements: Owning a legal copy of the Peggle Deluxe game.
 
-Installation Guide:
+###Installation Guide:
 
 Download QuickBMS: http://aluigi.org/papers/quickbms.zip
 
