@@ -5,21 +5,21 @@ Requirements: Owning a legal copy of the Peggle Deluxe game.
 
 ### Installation Guide:
 
-Download QuickBMS: http://aluigi.org/papers/quickbms.zip
+1- Download QuickBMS: http://aluigi.org/papers/quickbms.zip
 
-Download 7x7m.bms Script for QuickBMS: http://aluigi.org/papers/bms/7x7m.bms
+2- Download 7x7m.bms Script for QuickBMS: http://aluigi.org/papers/bms/7x7m.bms
 
-Locate where your game files for Peggle are located. You want to find main.pak
+3- Locate where your game files for Peggle are located. If you are using Steam you can easily find them using the Browse Local Files feature. You want to find main.pak
 
-Open QuickBMS and select the 7x7m.bms script
+4- Open QuickBMS and select the 7x7m.bms script
 
-Next select main.pak
+5- Select main.pak
 
-Select that same folder where main.pak is located to dump the unpacked main.pak
+6- Select that same folder where main.pak is located to dump the unpacked main.pak
 
-Rename main.pak to main.pak.bak to make it unreadable to the game
+7- Rename main.pak to main.pak.bak to make it unreadable to the game
 
-Replace the folders with the new ones included in this mod. 
+8- Replace the folders with the new ones included in this mod. 
 
 /AlternateFiles is not needed to make the game work. They just contain AlternateFiles
 
