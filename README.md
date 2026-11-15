@@ -3,6 +3,9 @@
 
 Requirements: Owning a legal copy of the Peggle Deluxe game.
 
+All credit to Luigi Auriemma for the quickbms tool and 7x7m script. 
+
+
 ### Installation Guide:
 
 1- Download QuickBMS: https://github.com/LittleBigBug/QuickBMS/releases/tag/0.12.0
