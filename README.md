@@ -5,9 +5,9 @@ Requirements: Owning a legal copy of the Peggle Deluxe game.
 
 ### Installation Guide:
 
-1- Download QuickBMS: http://aluigi.org/papers/quickbms.zip
+1- Download QuickBMS: https://github.com/LittleBigBug/QuickBMS/releases/tag/0.12.0
 
-2- Download 7x7m.bms Script for QuickBMS: http://aluigi.org/papers/bms/7x7m.bms
+2- Download 7x7m.bms Script for QuickBMS: https://github.com/ElAtiendeBoludos/7x7m-backup
 
 3- Locate where your game files for Peggle are located. If you are using Steam you can easily find them using the Browse Local Files feature. You want to find main.pak
 
